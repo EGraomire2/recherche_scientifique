@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3400" height="2500" viewBox="0 0 3400 2500">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#26364D" flood-opacity=".13"/></filter></defs>
+<rect width="100%" height="100%" fill="#F7F5EF"/>
+<style>
+.eyebrow{font:700 21px Arial;letter-spacing:2px;fill:#697386} .main{font:700 51px Arial;fill:#263246} .sub{font:22px Arial;fill:#667184}
+.ctitle{font:700 27px Arial} .body{font:20px Arial;fill:#303A49}
+.center1{font:700 30px Arial;fill:white} .center2{font:19px Arial;fill:#E6EAF0}
+</style>
+<text x="170" y="65" class="eyebrow">CARTE MENTALE DE SYNTHÈSE DES DEUX DOCUMENTS</text>
+<text x="170" y="130" class="main">Désinformation, complot et construction de</text>
+<text x="170" y="190" class="main"> la vérité</text>
+<text x="170" y="235" class="sub">Comprendre les récits, questionner les preuves et vérifier les informations</text>
+
+<path d="M1700 980 C1700 790 1700 700 1700 585" fill="none" stroke="#3977A8" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="1700" cy="585" r="13" fill="#3977A8"/>
+<path d="M1995 1080 C2180 1000 2240 840 2280 800" fill="none" stroke="#805A92" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="2280" cy="800" r="13" fill="#805A92"/>
+<path d="M1995 1370 C2190 1450 2230 1630 2280 1750" fill="none" stroke="#168A7A" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="2280" cy="1750" r="13" fill="#168A7A"/>
+<path d="M1700 1480 C1700 1650 1700 1770 1700 1900" fill="none" stroke="#C47B20" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="1700" cy="1900" r="13" fill="#C47B20"/>
+<path d="M1405 1370 C1210 1450 1160 1630 1120 1750" fill="none" stroke="#A75A4D" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="1120" cy="1750" r="13" fill="#A75A4D"/>
+<path d="M1405 1080 C1220 1000 1160 840 1120 800" fill="none" stroke="#4E854C" stroke-width="14" stroke-linecap="round" opacity=".88"/><circle cx="1120" cy="800" r="13" fill="#4E854C"/>
+<rect x="1405" y="980" width="590" height="500" rx="44" fill="#26364F" filter="url(#sh)"/>
+<text x="1700" y="1080" text-anchor="middle" class="center1">INFORMATION</text>
+<text x="1700" y="1125" text-anchor="middle" class="center1">ET CONSTRUCTION</text>
+<text x="1700" y="1170" text-anchor="middle" class="center1">DE LA VÉRITÉ</text>
+<line x1="1515" y1="1210" x2="1885" y2="1210" stroke="#8FA0B8" stroke-width="2"/>
+<text x="1700" y="1260" text-anchor="middle" class="center2">Désinformation • complot</text>
+<text x="1700" y="1295" text-anchor="middle" class="center2">doute • vérification</text>
+<text x="1700" y="1360" text-anchor="middle" style="font:italic 18px Arial;fill:#C9D3E1">Douter, enquêter, établir les faits</text>
+<rect x="1280" y="85" width="840" height="500" rx="26" fill="#EAF2F8" stroke="#3977A8" stroke-width="4" filter="url(#sh)"/>
+<path d="M1310 168 H2090" stroke="#3977A8" stroke-width="3" opacity=".35"/>
+<text x="1314" y="138" class="ctitle" fill="#3977A8">1 • CONTEXTE : L’ÈRE DU SOUPÇON</text>
+<text x="1316" y="212" class="body">• Depuis 2001, les récits « conspirationnistes » circulent davantage,</text>
+<text x="1316" y="252" class="body">  notamment sur les réseaux sociaux.</text>
+<text x="1316" y="292" class="body">• Crises et conflits favorisent rumeurs, défiance et récits concurrents.</text>
+<text x="1316" y="332" class="body">• Les médias, autorités et témoins peuvent être accusés de cacher la vérité.</text>
+<text x="1316" y="372" class="body">• En temps de guerre, l’information devient un enjeu stratégique.</text>
+<rect x="2280" y="520" width="930" height="560" rx="26" fill="#F2ECF6" stroke="#805A92" stroke-width="4" filter="url(#sh)"/>
+<path d="M2310 603 H3180" stroke="#805A92" stroke-width="3" opacity=".35"/>
+<text x="2314" y="573" class="ctitle" fill="#805A92">2 • DÉFINIR ET DISTINGUER</text>
+<text x="2316" y="647" class="body">• Complot : action secrète et coordonnée d’un groupe pour atteindre</text>
+<text x="2316" y="687" class="body">  un objectif.</text>
+<text x="2316" y="727" class="body">• Théorie du complot : explication attribuant un événement à une action</text>
+<text x="2316" y="767" class="body">  secrète et intentionnelle, sans preuves solides.</text>
+<text x="2316" y="807" class="body">• Une explication alternative n’est pas automatiquement complotiste.</text>
+<text x="2316" y="847" class="body">• La « version officielle » n’est ni forcément vraie ni forcément fausse.</text>
+<text x="2316" y="887" class="body">• Distinguer doute légitime, hypothèse et accusation.</text>
+<rect x="2280" y="1450" width="930" height="620" rx="26" fill="#E7F5F1" stroke="#168A7A" stroke-width="4" filter="url(#sh)"/>
+<path d="M2310 1533 H3180" stroke="#168A7A" stroke-width="3" opacity=".35"/>
+<text x="2314" y="1503" class="ctitle" fill="#168A7A">3 • FAKE NEWS ET GUERRES DE RÉCITS</text>
+<text x="2316" y="1577" class="body">• La désinformation sert d’arme symbolique dans les conflits.</text>
+<text x="2316" y="1617" class="body">• Syrie : déni de crimes, faux drapeaux, culpabilisation des victimes,</text>
+<text x="2316" y="1657" class="body">  discrédit des témoins ; Douma présenté comme une mise en scène.</text>
+<text x="2316" y="1697" class="body">• Campagnes contre les Casques blancs et Bellingcat.</text>
+<text x="2316" y="1737" class="body">• Ukraine : « dénazification », prétendus laboratoires, déni de Boutcha</text>
+<text x="2316" y="1777" class="body">  et de Marioupol, vidéos truquées et deepfakes.</text>
+<text x="2316" y="1817" class="body">• Bots, trolls, faux comptes et médias parallèles amplifient les récits.</text>
+<text x="2316" y="1857" class="body">• Effets : confusion, inversion victime/agresseur, perte de confiance,</text>
+<text x="2316" y="1897" class="body">  « brouillard de guerre ».</text>
+<rect x="1280" y="1900" width="840" height="500" rx="26" fill="#FBF1E2" stroke="#C47B20" stroke-width="4" filter="url(#sh)"/>
+<path d="M1310 1983 H2090" stroke="#C47B20" stroke-width="3" opacity=".35"/>
+<text x="1314" y="1953" class="ctitle" fill="#C47B20">4 • ENQUÊTER : DOUTER, MAIS COMMENT ?</text>
+<text x="1316" y="2027" class="body">• Le doute doit rester une méthode, pas devenir une conclusion.</text>
+<text x="1316" y="2067" class="body">• Vérifier les affirmations et rechercher des preuves.</text>
+<text x="1316" y="2107" class="body">• Croiser sources, témoignages et documents.</text>
+<text x="1316" y="2147" class="body">• Examiner l’origine, la date et le contexte des images.</text>
+<text x="1316" y="2187" class="body">• Une enquête peut confirmer, nuancer ou réfuter une thèse.</text>
+<text x="1316" y="2227" class="body">• Absence de preuve ≠ preuve d’un complot.</text>
+<rect x="190" y="1450" width="930" height="620" rx="26" fill="#F8ECE9" stroke="#A75A4D" stroke-width="4" filter="url(#sh)"/>
+<path d="M220 1533 H1090" stroke="#A75A4D" stroke-width="3" opacity=".35"/>
+<text x="224" y="1503" class="ctitle" fill="#A75A4D">5 • RÉFUTER ET CORRIGER</text>
+<text x="226" y="1577" class="body">• Réfuter par des enquêtes, documents et vérifications indépendantes.</text>
+<text x="226" y="1617" class="body">• Expliquer pourquoi une affirmation est fausse ou insuffisamment étayée.</text>
+<text x="226" y="1657" class="body">• Reconnaître les erreurs et les incertitudes.</text>
+<text x="226" y="1697" class="body">• Rectifier une information renforce la crédibilité.</text>
+<text x="226" y="1737" class="body">• Éviter les accusations impossibles à tester ou à réfuter.</text>
+<rect x="190" y="520" width="930" height="560" rx="26" fill="#EEF5E9" stroke="#4E854C" stroke-width="4" filter="url(#sh)"/>
+<path d="M220 603 H1090" stroke="#4E854C" stroke-width="3" opacity=".35"/>
+<text x="224" y="573" class="ctitle" fill="#4E854C">6 • RÉSISTER : ESPRIT CRITIQUE &amp; OSINT</text>
+<text x="226" y="647" class="body">• Développer l’esprit critique et la vérification des faits.</text>
+<text x="226" y="687" class="body">• OSINT : utiliser des sources ouvertes pour documenter les événements.</text>
+<text x="226" y="727" class="body">• Comparer plusieurs sources indépendantes.</text>
+<text x="226" y="767" class="body">• Vérifier images, vidéos, dates et lieux.</text>
+<text x="226" y="807" class="body">• Coopération entre journalistes, chercheurs, experts et citoyens.</text>
+<text x="226" y="847" class="body">• Objectif : préserver une base factuelle commune.</text>
+<text x="1700" y="2460" text-anchor="middle" class="sub">Synthèse des deux cartes mentales : « Fake news et conflits armés » et « Les théories du complot au scalpel ».</text></svg>
